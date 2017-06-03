@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="s_insira_seu_peso">Insira seu peso</string>
+    <string name="s_insira_sua_altura">Insira sua altura</string>
+    <string name="botao_calcular_imc">Calcular IMC</string>
+
+    <string name="s_menor_que_19">Menor que 19? Abaixo do peso!</string>
+    <string name="s_maior_que_32">"Maior que 32? Acima do peso!</string>
+    <string name="s_peso_ok">Peso ok!</string>
+    <string name="s_sem_dados">Coloque todos os dados</string>
+</resources>
